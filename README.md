@@ -30,7 +30,6 @@ const cris = {
   learning: [Python, Typescript]
 }
 
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <br>You can also reach me at cristhian.pinedab@gmail.com :)</em>
 
 
