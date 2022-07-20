@@ -7,33 +7,32 @@
 
 ## About ::
 
-👩🏽‍🎓| Hello, I am Keyna and recently took a turn in my career to become a Fullstack Developer, The reason?, previously I managed projects focused on ICTs and innovation  and I saw how technology impacts people's lives. Being such a powerful tool, I consider that democratizing technology is everyone's task, and I am very passionate about being able to contribute to this process. 
+👩🏽‍🎓| Hello, I am Cristhian and recently took a turn in my career to become a Fullstack Developer, Why?, I have always loved technology, and how it impacts people's lives. Being such a powerful tool, I consider that democratizing technology is everyone's task, and I am very passionate about being able to contribute to this process. 
 
-👩🏽‍💻| I entered Henry's Fullstack Development bootcamp, and learned the main technologies used in web development (HTML, CSS, JavaScript, NodeJS, Express, React, Redux, SQL, Sequelize, among others) creating various projects from scratch. 
+👩🏽‍💻| Thus, I entered Henry's Fullstack Development bootcamp, and learned the main technologies used in web development (HTML, CSS, JavaScript, NodeJS, Express, React, Redux, SQL, Sequelize, among others) creating various projects from scratch.
 
-🧩In addition, thanks to the experience in international business and project management, I´ve worked in multicultural and multidisciplinary environments. I have a great inclination for art in general and music in particular, I love languages, learning, finding new challenges and combining my different areas of interest to propose disruptive solutions. I also look forward to learn about machine learning and AI.
+🧩In addition, thanks to the experience gained in international business they helped me develop skills such as empathy, adaptability, teamwork, leadership, effective communication, negotiation, and time management.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Redux | Material UI
-- 💻 &nbsp; NodeJS | PostgreSQL | Sequelize 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Redux
+- 💻 &nbsp; NodeJS | PostgreSQL | Sequelize | MongoDB | Mongoose
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> In code... 
 
 javascript
-const key = {
-  pronouns: "she" | "her",
+const cris = {
   code: [Javascript,HTML, CSS],
-  tools: [React, Redux, Node, MaterialUI, Bootstrap],
-  database: [PostgreSQL, Sequelize],
-  learning: [Python, TnesorFlow]
+  tools: [React, Redux, Node, Bootstrap],
+  database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
+  learning: [Python, Typescript]
 }
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <br>You can also reach me at keynarafaelp@gmail.com :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <br>You can also reach me at cristhian.pinedab@gmail.com :)</em>
 
 
 -----
-.key
+.cris
