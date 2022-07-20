@@ -22,13 +22,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> In code... 
 
-javascript
-const cris = {
+```javascript
+const key = {
+  pronouns: "she" | "her",
   code: [Javascript,HTML, CSS],
-  tools: [React, Redux, Node, Bootstrap],
-  database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
-  learning: [Python, Typescript]
+  tools: [React, Redux, Node, MaterialUI, Bootstrap],
+  database: [PostgreSQL, Sequelize],
+  learning: [Python, Typescript, Tailwind]
 }
+```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <br>You can also reach me at cristhian.pinedab@gmail.com :)</em>
 
