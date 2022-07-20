@@ -2,7 +2,7 @@
 
 <h2>Fullstack Developer</h2>
 
-[![Linkedin: CristhianPineda](https://img.shields.io/badge/-keynarp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhian-pineda-burgos/)](https://www.linkedin.com/in/cristhian-pineda-burgos/)
+[![Linkedin: CristhianPineda](https://img.shields.io/badge/-cristhianpb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhian-pineda-burgos/)](https://www.linkedin.com/in/cristhian-pineda-burgos/)
 [![GitHub CristhianPinedaB](https://img.shields.io/github/followers/CristhianPinedaB?label=follow&style=social)](https://github.com/CristhianPinedaB)
 
 ## About ::
