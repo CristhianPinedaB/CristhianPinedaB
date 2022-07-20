@@ -26,8 +26,8 @@
 const key = {
   pronouns: "she" | "her",
   code: [Javascript,HTML, CSS],
-  tools: [React, Redux, Node, MaterialUI, Bootstrap],
-  database: [PostgreSQL, Sequelize],
+  tools: [React, Redux, Node, Bootstrap],
+  database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
   learning: [Python, Typescript, Tailwind]
 }
 ```
