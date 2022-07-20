@@ -2,8 +2,8 @@
 
 <h2>Fullstack Developer</h2>
 
-[![Linkedin: keynarp](https://img.shields.io/badge/-keynarp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keynarp/)](https://www.linkedin.com/in/keynarp/)
-[![GitHub keyn4](https://img.shields.io/github/followers/keyn4?label=follow&style=social)](https://github.com/keyn4)
+[![Linkedin: CristhianPineda](https://img.shields.io/badge/-keynarp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhian-pineda-burgos/)](https://www.linkedin.com/in/cristhian-pineda-burgos/)
+[![GitHub CristhianPinedaB](https://img.shields.io/github/followers/CristhianPinedaB?label=follow&style=social)](https://github.com/CristhianPinedaB)
 
 ## About ::
 
