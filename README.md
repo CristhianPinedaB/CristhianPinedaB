@@ -23,12 +23,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> In code... 
 
 ```javascript
-const key = {
-  pronouns: "she" | "her",
+const cris = {
   code: [Javascript,HTML, CSS],
   tools: [React, Redux, Node, Bootstrap],
   database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
-  learning: [Python, Typescript, Tailwind]
+  learning: [Typescript, Tailwind]
 }
 ```
 
