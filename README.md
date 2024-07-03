@@ -27,7 +27,7 @@ const cris = {
   code: [Javascript,HTML, CSS],
   tools: [React, Redux, Node, Bootstrap],
   database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
-  learning: [Typescript, Tailwind]
+  learning: [Typescript, AWS]
 }
 ```
 
